@@ -6,7 +6,7 @@ require('stackmob-js-0.5.5');
 StackMob.init({
 	appName : 'people_interact',
 	clientSubdomain : 'clearlyinnovative',
-	publicKey : '6a2e44eb-30a7-48c4-a7e1-586afdb7f83d',
+	publicKey : 'ADD YOUR OWN',
 	apiVersion : 0
 });
 
