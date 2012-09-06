@@ -1,0 +1,32 @@
+Logfile initialized
+[INFO] logfile = /Users/aaronksaunders/Documents/workspace/kinvey/ddd/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/2.1.0.GA/android/builder.py simulator ddd /Users/aaronksaunders/dev/tools/android-sdk-mac_86 /Users/aaronksaunders/Documents/workspace/kinvey/ddd d.ddd 21 HVGA 
+[INFO] Building ddd for Android ... one moment
+[INFO] Titanium SDK version: 2.1.0 (06/28/12 12:16 6e3cab6)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.028402 seconds on emulator to get ready
+[DEBUG] d.ddd installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/app.js => /Users/aaronksaunders/Documents/workspace/kinvey/ddd/build/android/bin/assets/Resources/app.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/android/images/res-notlong-port-mdpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... ddd
+[INFO] Launching application ... ddd
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=d.ddd/.DddActivity }
+
+[INFO] Android Emulator has exited
