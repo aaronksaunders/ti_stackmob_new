@@ -1,1 +1,0 @@
-/Users/aaronksaunders/Documents/workspace/kinvey/ddd/Resources/ui/handheld/ios/ApplicationWindow.js
